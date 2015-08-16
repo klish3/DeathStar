@@ -1,0 +1,6 @@
+pod "BDBOAuth1Manager"
+pod "Facebook-iOS-SDK"
+pod "SimpleAuth/Instagram"
+pod "SAMCache"
+pod "SAMCategories"
+pod "MBProgressHUD"
